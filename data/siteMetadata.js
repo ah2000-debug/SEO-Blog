@@ -1,10 +1,10 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: 'KI-VO-Check',
-  author: 'Aegira',
+  author: 'Azimuth',
   headerTitle: 'KI-VO-Check',
   description:
-    'Daily insights on AI governance, EU AI Act compliance, and responsible AI adoption for European businesses — by Aegira.',
+    'Daily insights on AI governance, EU AI Act compliance, and responsible AI adoption for European businesses.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://ki-vo-check.de',
@@ -12,7 +12,7 @@ const siteMetadata = {
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   // mastodon: '',
-  email: 'info@aegira.ai', // TODO: update with your preferred contact email
+  email: 'info@ki-vo-check.de', // TODO: update with your preferred contact email
   // github: '',
   // x: '',
   // facebook: '',
